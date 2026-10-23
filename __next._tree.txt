@@ -1,0 +1,4 @@
+:HL["/_next/static/css/0fc2e8fffff414d4.css","style"]
+:HL["/logo.svg","image"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"b8zxXl0QRxj9yT229-Tr4","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
