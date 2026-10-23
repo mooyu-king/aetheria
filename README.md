@@ -1,46 +1,50 @@
-# Aetheria Online — Play Asciilands Online
+# Aetheria Online — Play the Browser Adventure
 
-![Aetheria Online compass logo](./logo.webp)
+![Aetheria mountain crest](./logo.webp)
 
-**A world made of characters. An island to explore. A camp to call your own.**
+**Choose your class. Follow the embers. Find your next adventure.**
 
-[Play Asciilands online at aetheriaonline.online](https://aetheriaonline.online/) and explore the independent **Quietwater solo edition** in your browser. Start a session from the game frame, gather supplies, and discover what you can build at your own pace.
+[Visit Aetheria Online](https://aetheriaonline.online/) to play **Aetheria: Emberlight**, an independent solo browser adventure. Explore three regions, battle guardians and keep controls and save help close at hand.
 
-## Explore your next adventure
+## Start your journey
 
-![Quietwater island, terrain and resource markers](./asciilands-gameplay.png)
+![Redwater Forest town in the original Aetheria Online](./aetheria-combat.webp)
 
-Explore an ASCII landscape where characters form the terrain, water and objects around you. Aetheria pairs the game with illustrated guidance so you can spend less time searching for help and more time exploring.
+*Original-game reference image from the creator’s itch.io gallery; not a screenshot of the embedded solo session.*
 
-- **Play from your browser:** use the prominent Start game button to enter the embedded solo game.
-- **Find your bearings:** follow the field guide for movement, gathering and your first supplies.
-- **Plan a session:** work through a preparation checklist and choose the guidance you need.
-- **Keep help nearby:** browse crafting and building explanations, selected videos and common questions below the game.
+Choose Warden, Ranger or Star Mage. Follow your journal from Tutoria Isle through Redwater Forest to Glacial Plains, completing objectives before challenging each region’s guardian.
 
-[Start playing](https://aetheriaonline.online/#play) · [Explore the field guide](https://aetheriaonline.online/#explore)
+- **Play in your browser:** start from the game frame or its direct link.
+- **Learn the controls:** find movement, attack, skill and dodge guidance.
+- **Prepare a session:** use the personal checklist and contextual help.
+- **Keep your progress:** learn how to export a local save backup.
 
-## Turn gathered supplies into something useful
+[Start playing](https://aetheriaonline.online/#play) · [Adventure guide](https://aetheriaonline.online/#explore)
 
-![Quietwater crafting interface and available recipes](./asciilands-crafting.png)
+## Pick your approach to combat
 
-Gather materials, consult the crafting guidance and plan your next step. The illustrated guide keeps exploration, crafting and building in separate sections, making it easy to return to the information you need.
+![Original Aetheria Online characters in a multiplayer combat scene](./aetheria-adventure.webp)
 
-[Read the crafting guide](https://aetheriaonline.online/#craft) · [Prepare your session](https://aetheriaonline.online/#prepare)
+*Original multiplayer reference image. Emberlight is a separate single-player adventure.*
 
-## Make a place to return to
+Compare the browser edition’s class skills, watch your health and use camp to prepare for another expedition.
 
-![Quietwater building interface and structures](./asciilands-building.png)
+[Classes and controls](https://aetheriaonline.online/#craft) · [Session checklist](https://aetheriaonline.online/#prepare)
 
-Explore the building guidance as you develop your camp. Whether you are finding your first resources or deciding what to make next, the page keeps the game and its supporting guide together.
+## Discover the world behind the adventure
 
-[Read the building guide](https://aetheriaonline.online/#build) · [Find answers](https://aetheriaonline.online/#faq) · [Browse selected videos](https://aetheriaonline.online/#watch)
+![A Lava Hound encounter in the original game’s Glowrock Volcano](./aetheria-world.webp)
 
-## About this edition
+*Original-game reference image; Glowrock Volcano is not an Emberlight chapter.*
 
-The embedded game is **Quietwater, an independent single-player edition**, separate from the original multiplayer Asciilands. Game access requires an internet connection; a direct game link is available if embedding is unavailable. Selected videos may show a different game or edition.
+Original Aetheria Online information is linked separately from the browser guide. Original accounts and multiplayer progression do not carry into this solo edition.
 
-Aetheria Online is an independent guide and is not affiliated with the original developer. Game names and original assets belong to their respective creators.
+[Progress and save help](https://aetheriaonline.online/#build) · [Selected videos](https://aetheriaonline.online/#watch) · [Common questions](https://aetheriaonline.online/#faq)
 
-[About Aetheria](https://aetheriaonline.online/about/) · [Contact](https://aetheriaonline.online/contact/) · [Privacy](https://aetheriaonline.online/privacy/) · [Terms](https://aetheriaonline.online/terms/)
+## About this website
 
-**[Visit Aetheria Online and start your solo adventure →](https://aetheriaonline.online/)**
+This is an independent guide, not the original developer or MMORPG server operator. Original game names and artwork belong to their creators. External games and videos require an internet connection.
+
+[About](https://aetheriaonline.online/about/) · [Contact](https://aetheriaonline.online/contact/) · [Privacy](https://aetheriaonline.online/privacy/) · [Terms](https://aetheriaonline.online/terms/)
+
+**[Begin your Aetheria adventure →](https://aetheriaonline.online/)**
