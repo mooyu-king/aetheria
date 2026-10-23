@@ -1,0 +1,19 @@
+# 排除部署管理文件，保留本地 Git 历史和 README。
+/.git
+/.git/**
+**/.git/**
+/.github/
+/.wrangler/
+/node_modules/
+/.assetsignore
+/.gitignore
+/wrangler.json
+/wrangler.jsonc
+/wrangler.toml
+/README*
+/readme*
+/package.json
+/package-lock.json
+/HANDOFF.md
+/AGENTS.md
+*.log
