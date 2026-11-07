@@ -1,50 +1,67 @@
-# Aetheria Online — Play the Browser Adventure
+# Aetheria Online
+
+[Visit Aetheria Online](https://aetheriaonline.online/)
+
+## Explore the Website
+
+Press Start game above to open Aetheria: Emberlight, the independent solo browser edition. Choose Warden, Ranger or Star Mage, then follow the journal through Tutoria Isle, Redwater Forest and Glacial Plains. Each chapter asks you to defeat enemies, collect starleaves and challenge a guardian before travelling onward.
 
 ![Aetheria mountain crest](./logo.webp)
 
-**Choose your class. Follow the embers. Find your next adventure.**
+The embedded adventure has its own local progress and rules. It does not connect to the original MMORPG servers or transfer an original account. For the original multiplayer game, visit AetheriaMMORPG’s Aetheria Online page.
 
-[Visit Aetheria Online](https://aetheriaonline.online/) to play **Aetheria: Emberlight**, an independent solo browser adventure. Explore three regions, battle guardians and keep controls and save help close at hand.
+![Original Aetheria Online reference image](./aetheria-combat.webp)
 
-## Start your journey
+If the frame cannot load, open the browser game directly. Keep this guide nearby for controls and save help.
 
-![Redwater Forest town in the original Aetheria Online](./aetheria-combat.webp)
+![Original Aetheria Online combat reference](./aetheria-adventure.webp)
 
-*Original-game reference image from the creator’s itch.io gallery; not a screenshot of the embedded solo session.*
+In the browser adventure, start near camp and check the journal before setting out. The map and objective tracker help you decide where to go next. Complete the current region’s objectives before seeking its guardian; return to camp to prepare for the next chapter.
 
-Choose Warden, Ranger or Star Mage. Follow your journal from Tutoria Isle through Redwater Forest to Glacial Plains, completing objectives before challenging each region’s guardian.
+Move with WASD or the arrow keys. You can also click a destination. Use E to interact nearby and M to open the map. Click inside the game first if keyboard input is going to the page instead.
 
-- **Play in your browser:** start from the game frame or its direct link.
-- **Learn the controls:** find movement, attack, skill and dodge guidance.
-- **Prepare a session:** use the personal checklist and contextual help.
-- **Keep your progress:** learn how to export a local save backup.
+The original Aetheria Online is a fantasy MMORPG built around action combat, cooperative dungeons, PvP and crafting. The original screenshots in this guide introduce that world; they do not claim every shown feature is included in Emberlight.
 
-[Start playing](https://aetheriaonline.online/#play) · [Adventure guide](https://aetheriaonline.online/#explore)
+Emberlight offers three choices: Warden is a durable melee fighter with Whirlwind; Ranger combines ranged attacks with Volley; Star Mage uses ranged burst damage and Starburst. Read the class description before starting a new adventure, especially if you already have a save you want to keep.
 
-## Pick your approach to combat
+Use Space to attack, Q for your class skill, Shift to dodge and R for a potion. Watch the cooldown indicators and your health. Moving out of danger can be more useful than trying another attack immediately.
 
-![Original Aetheria Online characters in a multiplayer combat scene](./aetheria-adventure.webp)
+The original MMORPG also describes arena combat and guild wars. Those are original-game features, not multiplayer modes in this browser adventure. The screenshot alongside this section is an original PvP scene.
 
-*Original multiplayer reference image. Emberlight is a separate single-player adventure.*
+In Emberlight, camp provides rest, supplies and equipment upgrades. Check your health and potion count before leaving. Open the journal to review your remaining enemies and starleaves, then plan a short route rather than wandering without an objective.
 
-Compare the browser edition’s class skills, watch your health and use camp to prepare for another expedition.
+Open the game’s pause menu to export a save backup. Progress belongs to the browser game host, not this guide. Keep the exported file before clearing browser data, changing devices or choosing a new adventure. A backup is useful only if you can find it again.
 
-[Classes and controls](https://aetheriaonline.online/#craft) · [Session checklist](https://aetheriaonline.online/#prepare)
+The original MMORPG emphasizes crafted equipment, character customization, quests, familiars and guilds. Consult the creator’s page for those original systems. This browser guide only describes controls and progression found in the hosted solo edition.
 
-## Discover the world behind the adventure
+## Plan Your Visit
 
-![A Lava Hound encounter in the original game’s Glowrock Volcano](./aetheria-world.webp)
+Click inside the game first. Use WASD or arrow keys to move, Space to attack and Q for your class skill. Check your range and the cooldown indicators.
 
-*Original-game reference image; Glowrock Volcano is not an Emberlight chapter.*
+A solo journey through three regions with class skills, guardians, equipment upgrades and local save backups. Start in the frame above without an original MMORPG account.
 
-Original Aetheria Online information is linked separately from the browser guide. Original accounts and multiplayer progression do not carry into this solo edition.
+The creator’s listing presents the downloadable multiplayer RPG. Its server-based accounts, group activities and original progression are separate from the embedded adventure.
 
-[Progress and save help](https://aetheriaonline.online/#build) · [Selected videos](https://aetheriaonline.online/#watch) · [Common questions](https://aetheriaonline.online/#faq)
+Use this independent guide to find controls, prepare a session, watch selected videos and check which edition a feature belongs to.
 
-## About this website
+Two selected Aetheria videos. Footage may cover other versions; it is not a feature list for Emberlight. Previews load from YouTube, and players load when selected. The second video starts at three seconds.
 
-This is an independent guide, not the original developer or MMORPG server operator. Original game names and artwork belong to their creators. External games and videos require an internet connection.
+The frame opens Aetheria: Emberlight, an independent solo browser adventure. It is separate from the downloadable Aetheria Online MMORPG linked in this guide.
 
-[About](https://aetheriaonline.online/about/) · [Contact](https://aetheriaonline.online/contact/) · [Privacy](https://aetheriaonline.online/privacy/) · [Terms](https://aetheriaonline.online/terms/)
+The embedded edition uses its own local progress. It does not sign you into the original server, import your MMORPG character or provide its multiplayer activities.
 
-**[Begin your Aetheria adventure →](https://aetheriaonline.online/)**
+Move with WASD, arrow keys or click-to-move. Space attacks, Q activates your skill, Shift dodges, E interacts, R uses a potion and M opens the map. Click inside the game before using keyboard controls.
+
+Warden offers a sturdy melee starting point. Ranger emphasizes ranged attacks and movement. Star Mage has burst damage and lower starting health. Choose the play style you prefer; export an existing save before starting over.
+
+Check the journal for the current chapter. Defeat the required enemies, gather its starleaves and defeat the guardian. Then return to camp to travel onward.
+
+Use Export save in the game’s pause menu and keep the JSON file. The game also uses local browser storage. This website cannot recover lost saves or synchronize them across devices.
+
+The embedded interface includes touch controls. The surrounding page adapts to smaller screens, but device performance and comfortable play are not guaranteed. Try fullscreen or the direct game link if the frame is too cramped.
+
+The images below belong to the original Aetheria Online presentation, not a verified current Emberlight session. Keep that distinction in mind when comparing the guide with the game you actually open. Use the website as a companion for controls and preparation, not as a promise of original multiplayer features.
+
+## Visit Online
+
+[Open Aetheria Online](https://aetheriaonline.online/) to explore the website and choose your next activity.
